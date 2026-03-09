@@ -9,11 +9,15 @@
 <a href="mailto:amineyoucef005@gmail.com">
 <img src="https://img.shields.io/badge/Email-amineyoucef005%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<img src="https://img.shields.io/badge/Location-Setif%2C%20Algeria-blue?style=for-the-badge&logo=googlemaps&logoColor=white">
+<img src="https://img.shields.io/badge/Location-Algiers%2C%20Algeria-blue?style=for-the-badge&logo=googlemaps&logoColor=white">
 <a href="https://github.com/YoucefAmine">
 <img src="https://img.shields.io/badge/GitHub-YoucefAmine-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoucefAmine&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -63,21 +67,6 @@ Examples of systems and platforms I have worked on:
 - **Multi-module SaaS business management platform**
 - **Arabic NLP and sentiment analysis models**
 - **E-learning platform**
-
----
-
-## GitHub Activity & Contributions
-
-The following analytics reflect my development activity, repository contributions,
-and technology distribution across my projects.
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YoucefAmine&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoucefAmine&theme=tokyo-night&hide_border=true">
-</p>
 
 ---
 
