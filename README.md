@@ -9,7 +9,7 @@
 <a href="mailto:amineyoucef005@gmail.com">
 <img src="https://img.shields.io/badge/Email-amineyoucef1922%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<img src="https://img.shields.io/badge/Location-Algiers%2C%20Algeria-blue?style=for-the-badge&logo=googlemaps&logoColor=white">
+<img src="https://img.shields.io/badge/Location-Algeria-blue?style=for-the-badge&logo=googlemaps&logoColor=white">
 <a href="https://github.com/YoucefAmine">
 <img src="https://img.shields.io/badge/GitHub-YoucefAmine-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
