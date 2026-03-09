@@ -1,168 +1,128 @@
 
-<!-- Animated typing header -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Youcef+Abdenour+AMINE;Senior+Software+Engineer;Full+Stack+Systems+Architect;AI+%26+NLP+Enthusiast;Designing+Scalable+Software+Systems&center=true&width=900&height=60">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Youcef+Abdenour+AMINE;Senior+Software+Engineer;Full+Stack+Developer;AI+%26+NLP+Enthusiast;Building+Scalable+Systems&center=true&width=800&height=50">
 </p>
 
-<h1 align="center">👨‍💻 Youcef Abdenour AMINE</h1>
+<h1 align="center">👋 Welcome to My GitHub</h1>
 
 <p align="center">
-Senior Software Engineer • Full‑Stack Architect • AI Systems Builder
+Senior Software Engineer • Full‑Stack Developer • Mobile Developer • AI Enthusiast
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YoucefAmine&style=for-the-badge">
-<img src="https://img.shields.io/badge/location-Setif%2C%20Algeria-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/focus-Scalable%20Systems-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/domain-AI%20%7C%20SaaS%20%7C%20Healthcare-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Location-Setif%2C%20Algeria-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge">
 </p>
 
 ---
 
-# 🚀 Engineering Philosophy
+# 🚀 About Me
 
-I design **software systems meant to survive real-world complexity**.
+I am a **Senior Software Engineer** passionate about designing and building scalable digital systems.
 
-My engineering mindset focuses on:
+My work focuses on:
 
-• building **scalable architectures**  
-• designing **clean modular systems**  
-• integrating **AI into practical applications**  
-• optimizing **data pipelines and workflows**  
-• delivering **software that evolves over time**
+• Full‑Stack Web Development  
+• Mobile Applications  
+• SaaS Platforms  
+• Healthcare Systems  
+• AI & Natural Language Processing  
 
-I enjoy working on systems where **engineering meets real operational impact**, especially:
-
-- healthcare systems
-- enterprise SaaS platforms
-- intelligent automation
-- AI-driven applications
+I enjoy transforming **complex real‑world problems into efficient software solutions**.
 
 ---
 
-# 🧠 Technical Vision
+# 🧠 Core Expertise
 
-Modern software engineering should balance **three pillars**:
-
-### 🏗 Systems Architecture
-Design software as **long‑term ecosystems**, not temporary projects.
-
-Key principles:
-
-- modular architectures
-- clear domain modeling
-- maintainability over complexity
-
-### 🤖 Intelligent Software
-Applications should **leverage data and AI** to enhance workflows.
-
-Examples:
-
-- NLP-driven systems
-- AI decision support
-- automation pipelines
-
-### 👥 Human‑Centered Systems
-Technology should simplify complexity for users.
-
-Good software:
-
-- reduces friction
-- accelerates workflows
-- empowers organizations
+✔ System Architecture  
+✔ Full‑Stack Web Development  
+✔ Mobile Application Development  
+✔ API Design & Integration  
+✔ AI & NLP Systems  
+✔ Legacy System Modernization  
+✔ Scalable SaaS Platforms  
 
 ---
 
 # 🛠 Technology Stack
 
 ## Languages
-<p>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=php"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=python)
 
 ## Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=sass"/>
-</p>
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Sass](https://skillicons.dev/icons?i=sass)
 
 ## Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=express"/>
-<img src="https://skillicons.dev/icons?i=laravel"/>
-</p>
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 
 ## Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=flutter"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-</p>
+![React Native](https://skillicons.dev/icons?i=react)
+![Flutter](https://skillicons.dev/icons?i=flutter)
 
 ## Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-## Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=docker"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=postman"/>
-</p>
+## Tools
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
-# 🤖 Artificial Intelligence & NLP
+# 💼 Professional Experience
 
-I experiment with **AI models integrated into real software systems**.
+## Senior Software Engineer — L&R Corporation
 
-Areas explored:
+Led the development of a **Hospital Information System (HIS)** integrating:
 
-• Sentiment analysis  
-• Arabic NLP systems  
-• Transformer architectures  
-• Text classification  
-• AI‑assisted automation
+• Laboratory systems  
+• Radiology imaging devices  
+• Electronic patient records  
 
-Technologies:
-
-BERT • RoBERTa • AraBERT • MarBERT • Transformer Models
+Implemented secure healthcare data management and improved hospital workflow efficiency.
 
 ---
 
-# 🧪 Domains I Enjoy Building
+## IT Developer — AXA Insurance
 
-### 🏥 Healthcare Platforms
-Systems integrating:
+Developed a **web and mobile insurance platform** allowing customers to:
 
-- electronic patient records
-- radiology imaging
-- laboratory systems
-- diagnostic data pipelines
+• Manage insurance policies  
+• Submit claims  
+• Track claim status  
 
-### 🏢 Enterprise SaaS Platforms
+Focused on security, performance, and user experience.
 
-Modular business systems enabling:
+---
 
-- operations management
-- automation workflows
-- analytics pipelines
+## Co‑Founder & Developer — OBS Algeria
 
-### 🤖 AI‑Enhanced Applications
+Contributed to technical strategy, product development, and team leadership.
 
-Products combining:
+---
 
-- software engineering
-- machine learning
-- intelligent workflows
+## Freelance Developer
+
+Providing custom software development solutions since **2020**.
+
+Industries served:
+
+• Healthcare  
+• Insurance  
+• SaaS platforms  
+• Business systems  
 
 ---
 
@@ -182,62 +142,63 @@ Products combining:
 
 ---
 
-# 🧬 Contribution Activity
+# 🧪 Highlighted Projects
+
+### 🏥 Hospital Information System
+Enterprise healthcare platform integrating laboratory, radiology and electronic patient records.
+
+### 🤖 Arabic NLP & Sentiment Analysis
+Deep learning models including:
+
+CNN • LSTM • BiLSTM • AraBERT • MarBERT
+
+### 🏢 Business Management SaaS Platform
+Built with:
+
+Laravel • Filament • Livewire • MySQL
+
+### 📚 E‑Learning Platform
+Online education system using:
+
+PHP • Laravel • Bootstrap • AJAX
+
+---
+
+# 🎓 Education
+
+**Master’s Degree**  
+Data Science & Web Technologies
+
+**Bachelor’s Degree**  
+Computer Science
+
+Ferhat Abbes University
+
+---
+
+# 🌍 Languages
+
+Arabic — Native  
+English — Intermediate  
+French — Intermediate  
+
+---
+
+# ⚡ Interests
+
+Combat Sports • Chess • Football • Strategy Games • Computing • Reading • Writing
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: amineyoucef005@gmail.com  
+
+💻 GitHub:  
+https://github.com/YoucefAmine
+
+---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoucefAmine&theme=tokyo-night&hide_border=true">
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-# ⭐ Featured Projects
-
-You can showcase important repositories here.
-
-Example structure:
-
-```
-🏥 healthcare-system
-enterprise-hospital-platform
-
-🤖 arabic-nlp-models
-sentiment-analysis-transformers
-
-🏢 business-saas-platform
-multi-module-enterprise-management
-
-📚 elearning-platform
-laravel-learning-management-system
-```
-
----
-
-# 🧭 Current Focus
-
-Currently exploring deeper work in:
-
-• scalable SaaS architectures  
-• AI-integrated software platforms  
-• healthcare information systems  
-• high-performance backend systems
-
----
-
-# 🤝 Connect
-
-📧 amineyoucef005@gmail.com  
-💻 https://github.com/YoucefAmine
-
----
-
-<p align="center">
-Building systems that matter.
+⭐ If you like my work, consider following my GitHub!
 </p>
