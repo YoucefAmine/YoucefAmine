@@ -139,14 +139,6 @@ Products combining:
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoucefAmine&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## Education
 
 **Master's Degree — Data Science & Web Technologies**  
